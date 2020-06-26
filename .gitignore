@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules
+
+# ide config dir
+.idea
+.vscode
+
+# macOS system file
+.DS_Store
